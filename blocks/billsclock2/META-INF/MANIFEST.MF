@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+
+Name: a.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Msu5EG7Fsi4Bq/L7OLJz061CesE=
+MD5-Digest: uBQQs1bQoTgsq8v7c+mm0A==
+
+Name: b.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 7BmSqvoks32YTVJJIaxixuu6S44=
+MD5-Digest: xEKUD1FPqF8iejZh6cBn6Q==
+
+Name: BillsClock2.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 1rAo/MxOUb+GV5x1bxD0IS+S11A=
+MD5-Digest: 1bJtbSSzOgQHrykVi6SWqw==
+
+Name: c.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 9mVvIzPOizm345yQp7eVw9M6/kY=
+MD5-Digest: Fz65HqmnKbak9zu/hV6N7A==
+
+Name: d.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: t9c+ZUj8s6bFcOc9w+BDODW35wM=
+MD5-Digest: 0UJV6sMA1YI80aBGk6DYWA==
+
+Name: e.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: w/BxHhci03bKAMEvtbzhjBNa3F8=
+MD5-Digest: sNKDNL4L4zeUytrekolyqg==
+
+Name: com/kcmultimedia/sntp/a.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: ttjs9PG0sBhnewMLGAUgnMGIxwU=
+MD5-Digest: BBSc0mwrYDmtQAK8IHOUyA==
+
+Name: com/kcmultimedia/sntp/SNTPCorrection.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Ib9bJmApavfjMa4aegkInRzg9Z4=
+MD5-Digest: oxXfdHwMnzWZdjw3OgQKtw==
+
+Name: com/kcmultimedia/sntp/SNTPProxy.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: TocxnFMtW8fvdGBLUu1wRZwiTrQ=
+MD5-Digest: qHCBCwMuV6Oxcw/cqpRTJg==
+
